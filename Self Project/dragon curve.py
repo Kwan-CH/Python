@@ -54,5 +54,3 @@ else:
     dragon_curve(dragon, iteration, length)
 
 turtle.exitonclick()
-
-print("Hello ")
