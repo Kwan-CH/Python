@@ -1,0 +1,7 @@
+Supplier_Code   Item_Code   Item_Name        Quantity(Box)
+C01             HC          Head_Cover                  95
+C01             FS          Face_Shield                 23
+C02             MS          Mask                       175
+C03             GL          Gloves                      15
+C03             GW          Gown                       100
+C03             SC          Shoe_Covers                 35

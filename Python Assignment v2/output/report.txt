@@ -1,0 +1,5 @@
+This is the list of transaction that you want to see in month 8 in year 2024
+
+From                   To                    Item_Code   Item_Name      Quantity(Box)            Date
+C01                   Health_Department     HC          Head_Cover               150          1-8-2024
+Health_Department     H01                   HC          Head_Cover               200          1-8-2024

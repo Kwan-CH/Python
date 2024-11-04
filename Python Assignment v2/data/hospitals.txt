@@ -1,0 +1,5 @@
+Hospitals_Code               Hospitals_Name
+H01                   Hospital_Kuala_Lumpur
+H02                       Hospital_Rambutan
+H03                         Hospital_Pahang
+H04                        Hospital_Fatimah

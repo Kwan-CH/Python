@@ -1,0 +1,17 @@
+{
+
+    "controller": "./data/controller.txt",
+    "hospitals": "./data/hospitals.txt",
+    "ppe": "./data/ppe.txt",
+    "suppliers": "./data/suppliers.txt",
+    "transaction": "./data/transaction.txt",
+    "access": "./data/access_log.txt",
+
+    "report": "./output/report.txt",
+
+    "maximum_attempt": 3,
+    "master_password": "1234",
+    "maximum_accounts": 4
+
+
+}

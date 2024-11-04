@@ -1,0 +1,55 @@
+Username   Action                                                                                         Timestamp
+kwan       Log in account                                                                     31 July 2024 22:21:30
+kwan       Initialized PPE inventory                                                          31 July 2024 22:23:01
+kwan       Log in account                                                                     31 July 2024 22:24:35
+kwan       Distribute 40 HC to H01                                                            31 July 2024 22:24:58
+kwan       Log in account                                                                     31 July 2024 22:25:27
+kwan       Distribute 35 FS to H01                                                            31 July 2024 22:25:50
+kwan       Distribute 50 MS to H02                                                            31 July 2024 22:26:24
+kwan       Distribute 60 GL to H02                                                            31 July 2024 22:26:46
+kwan       Distribute 55 GW to H03                                                            31 July 2024 22:27:11
+kwan       Distribute 65 SC to H03                                                            31 July 2024 22:27:31
+kwan       Distribute 45 HC to H04                                                            31 July 2024 22:28:14
+kwan       Distribute 30 FS to H04                                                            31 July 2024 22:28:48
+kwan       Distribute 40 MS to H01                                                            31 July 2024 22:29:17
+kwan       Distribute 25 GL to H01                                                            31 July 2024 22:29:50
+kwan       Distribute 20 GW to H02                                                            31 July 2024 22:30:19
+kwan       Distribute 15 SC to H02                                                            31 July 2024 22:30:34
+kwan       Distribute 10 HC to H03                                                            31 July 2024 22:30:55
+kwan       Distribute 12 FS to H03                                                            31 July 2024 22:31:15
+kwan       Receive 110 MS from C02                                                            31 July 2024 22:31:39
+kwan       Receive 115 GL from C03                                                            31 July 2024 22:31:52
+kwan       Receive 125 GW from C03                                                            31 July 2024 22:32:02
+kwan       Receive 135 SC from C03                                                            31 July 2024 22:32:18
+kwan       Distribute 55 GL to H04                                                            31 July 2024 22:32:59
+kwan       Receive 140 HC from C01                                                            31 July 2024 22:33:26
+kwan       Distribute 45 MS to H04                                                            31 July 2024 22:33:39
+kwan       Distribute 50 GW to H01                                                            31 July 2024 22:34:10
+kwan       Receive 60 SC from C03                                                             31 July 2024 22:34:23
+kwan       Distribute 20 MS to H03                                                            31 July 2024 22:35:18
+kwan       Receive 150 GL from C03                                                            31 July 2024 22:35:46
+kwan       Receive 100 MS from C02                                                            31 July 2024 22:36:00
+kwan       Distribute 180 SC to H04                                                           31 July 2024 22:36:22
+kwan       Distribute 210 GL to H01                                                           31 July 2024 22:36:52
+kwan       Generated all item in ascending order report                                       31 July 2024 22:37:30
+kwan       Generated specific month transaction report                                        31 July 2024 22:37:45
+kwan       Generated item less than 25 box report                                             31 July 2024 22:40:15
+kwan       Log in account                                                                     01 August 2024 10:05:07
+kwan       Delete own account                                                                 01 August 2024 10:05:23
+jason      Register an account                                                                01 August 2024 10:06:18
+jason      Log in account                                                                     01 August 2024 10:06:33
+jason      Log in account                                                                     01 August 2024 10:07:26
+jason      Receive 150 HC from C01                                                            01 August 2024 10:07:36
+jason      Distribute 200 HC to H01                                                           01 August 2024 10:08:51
+jason      Change supplier name HeadWear_Inc. to HeadWear                                     01 August 2024 10:09:32
+jason      Change hospital name Hospital_Kuantan to Hospital_Pahang                           01 August 2024 10:10:03
+jason      Generated all item in ascending order report                                       01 August 2024 10:10:26
+jason      Generated item less than 25 box report                                             01 August 2024 10:12:13
+jason      Generated particular item distribution report                                      01 August 2024 10:12:31
+jason      Generated supplies supplier supplied report                                        01 August 2024 10:13:28
+jason      Generated hospitals' supplies report                                               01 August 2024 10:13:51
+jason      Generated specific month transaction report                                        01 August 2024 10:14:25
+jason      Generated specific month transaction report                                        01 August 2024 10:15:00
+pony       Log in account                                                                     31 October 2024 12:49:49
+pony       Receive 20 MS from C02                                                             31 October 2024 12:49:55
+pony       Log out account                                                                    31 October 2024 12:50:34
